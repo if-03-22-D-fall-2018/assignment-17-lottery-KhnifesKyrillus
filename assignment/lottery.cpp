@@ -3,8 +3,8 @@
  *-----------------------------------------------------------------------------
  * Exercise Number: 17
  * File:			lottery.c
- * Author(s):		David Kraus
- * Due Date:		idk lol
+ * Author(s):		
+ * Due Date:		
  *-----------------------------------------------------------------------------
  * Description:
  * Implementation of a library for analyzing lottery tips.
